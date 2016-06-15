@@ -1,0 +1,16 @@
+.items {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.items li {
+  display: block;
+  float: left;
+  overflow: hidden;
+  width: 30px;
+  height: 30px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  background-color: rgb(161, 224, 90);
+}
